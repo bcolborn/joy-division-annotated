@@ -1,4 +1,6 @@
-# Joy Division annotated
+---
+layout: home
+---
 
 - Unknown Pleasures
 - Closer
