@@ -1,4 +1,6 @@
-# Twenty-four Hours
+---
+title: Twenty-four Hours
+---
 
 So this is permanence -
 

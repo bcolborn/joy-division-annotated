@@ -1,4 +1,6 @@
-# Heart and Soul
+---
+title: Heart and Soul
+---
 
 Instants that can still betray us
 

@@ -1,4 +1,6 @@
-# Shadowplay
+---
+title: Shadowplay
+---
 
 To the centre of the city where all roads
 

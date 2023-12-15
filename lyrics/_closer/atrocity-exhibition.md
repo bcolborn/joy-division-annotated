@@ -1,4 +1,6 @@
-# Atrocity Exhibition
+---
+title: Atrocity Exhibition
+---
 
 
 

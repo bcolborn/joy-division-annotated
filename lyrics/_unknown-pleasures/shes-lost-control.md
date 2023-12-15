@@ -1,4 +1,6 @@
-# She's Lost Control
+---
+title: She's Lost Control
+---
 
 Confusion in her eyes that says it all -
 

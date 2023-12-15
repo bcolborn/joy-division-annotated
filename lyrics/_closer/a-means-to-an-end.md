@@ -1,4 +1,6 @@
-# A Means to an End
+---
+title: A Means to an End
+---
 
 A legacy, so far removed
 

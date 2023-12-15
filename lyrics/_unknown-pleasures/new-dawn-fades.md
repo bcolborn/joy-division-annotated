@@ -1,4 +1,6 @@
-# New Dawn Fades
+---
+title: New Dawn Fades
+---
 
 Change of speed, a change of style
 

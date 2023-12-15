@@ -1,4 +1,6 @@
-# Candidate
+---
+title: Candidate
+---
 
 Forced by the pressure, the territory's
 

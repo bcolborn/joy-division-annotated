@@ -1,4 +1,6 @@
-# Passover
+---
+title: Passover
+---
 
 This is the crises I knew had to come
 

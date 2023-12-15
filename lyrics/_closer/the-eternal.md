@@ -1,4 +1,6 @@
-# The Eternal
+---
+title: The Eternal
+---
 
 Procession moves on, the shouting is over
 

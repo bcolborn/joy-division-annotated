@@ -1,4 +1,6 @@
-# Insight
+---
+title: Insight
+---
 
 Guess the dream always end
 

@@ -1,4 +1,6 @@
-# Wilderness
+---
+title: Wilderness
+---
 
 I traveled far and wide through many
 

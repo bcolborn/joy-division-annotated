@@ -1,4 +1,6 @@
-# Decades
+---
+title: Decades
+---
 
 Here are the young men,
 

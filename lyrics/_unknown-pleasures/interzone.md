@@ -1,4 +1,6 @@
-# Interzone
+---
+title: Interzone
+---
 
 I walked through city limits
 

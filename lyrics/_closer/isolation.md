@@ -1,4 +1,6 @@
-# Isolation
+---
+title: Isolation
+---
 
 Be clear every day, every evening
 

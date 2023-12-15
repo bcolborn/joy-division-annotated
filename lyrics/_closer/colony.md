@@ -1,4 +1,6 @@
-# Colony
+---
+title: Colony
+---
 
 A cry for help, a hint of anaesthesia
 
