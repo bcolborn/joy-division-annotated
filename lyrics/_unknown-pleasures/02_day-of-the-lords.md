@@ -1,7 +1,5 @@
 ---
-
 title: Day of the lords
-
 ---
 
 
