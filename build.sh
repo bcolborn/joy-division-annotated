@@ -1,11 +1,14 @@
 #!/bin/sh
 
+albums="_unknown-pleasures/ _closer/"
 dir=`pwd`
 tmp=$dir/tmp
 
+echo "Pre-processing files"
 cd lyrics
 for d in `ls -1`; do mkdir -p $tmp/$d; done
-for f in `find _unknown-pleasures/ _closer/ -name '*.md'`; do echo $f; pandoc -o $tmp/$f --template=track.md $f; done
+for f in `find $albums -name '*.md'`; do pandoc -o $tmp/$f --template=$dir/track.md $f; done
 
+echo "Building PDF"
 cd $tmp
-find _unknown-pleasures/ _closer/ -name '*.md' | xargs pandoc -o Joy-Division-Annotated.pdf
+find $albums -name '*.md' | xargs pandoc -o Joy-Division-Annotated.pdf --toc --metadata-file=$dir/head.yml
