@@ -1,6 +1,6 @@
 #!/bin/sh
 
-albums="_unknown-pleasures/ _closer/"
+albums="_unknown-pleasures/ _closer/ _substance"
 dir=`pwd`
 tmp=$dir/tmp
 

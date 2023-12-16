@@ -3,14 +3,33 @@ title: ""
 layout: home
 ---
 
-## Unknown Pleasures
-
+<table>
+<tr>
+<th>Unknown Pleasures</th>
+<th>Closer</th>
+<th>Substance</th>
+</tr>
+<tr>
+<td>
+<ol>
 {% for track in site.unknown-pleasures %}
-  1. [{{ track.title }}]({{ track.url }})
+  <li><a href="{{ track.url }}">{{ track.title }}</a></li>
 {% endfor %}
-
-## Closer
-
+</ol>
+</td>
+<td>
+<ol>
 {% for track in site.closer %}
-  1. [{{ track.title }}]({{ track.url }})
+  <li><a href="{{ track.url }}">{{ track.title }}</a></li>
 {% endfor %}
+</ol>
+</td>
+<td>
+<ol>
+{% for track in site.substance %}
+  <li><a href="{{ track.url }}">{{ track.title }}</a></li>
+{% endfor %}
+</ol>
+</td>
+</tr>
+</table>
