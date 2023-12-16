@@ -11,4 +11,4 @@ for f in `find $albums -name '*.md'`; do pandoc -o $tmp/$f --template=$dir/track
 
 echo "Building PDF"
 cd $tmp
-find $albums -name '*.md' | xargs pandoc -o Joy-Division-Annotated.pdf --toc --metadata-file=$dir/head.yml
+find $albums -name '*.md' | xargs pandoc -o Joy-Division-Annotated.pdf  --pdf-engine=xelatex --toc --metadata-file=$dir/head.yml

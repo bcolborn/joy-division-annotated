@@ -3,6 +3,7 @@ title: Lyrics
 author: Joy Division
 toc-title: Tracks
 papersize: a5
-fontfamily: nunito
+mainfont: QuattrocentoSans-Regular.ttf
+sansfont: QuattrocentoSans-Regular.ttf
 documentclass: book
 ---
