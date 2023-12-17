@@ -21,7 +21,7 @@
 title: Joy Division annotated
 description: >- # this means to ignore newlines until "baseurl:"
   Annotation of literary references for Joy Division lyrics.
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
