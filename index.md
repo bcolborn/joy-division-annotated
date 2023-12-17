@@ -7,7 +7,6 @@ layout: home
 <tr>
 <th>Unknown Pleasures</th>
 <th>Closer</th>
-<th>Other</th>
 </tr>
 <tr>
 <td>
@@ -24,16 +23,13 @@ layout: home
 {% endfor %}
 </ol>
 </td>
-<td rowspan="3">
---Other--
-</td>
 </tr>
 <tr>
 <th>Substance</th>
 <th>Still</th>
 </tr>
 <tr>
-<td>
+<td rowspan="3">
 <ol>
 {% for track in site.substance %}
   <li><a href="{{ track.url }}">{{ track.title }}</a></li>
@@ -47,5 +43,16 @@ layout: home
 {% endfor %}
 </ol>
 </td>
+</tr>
+<tr>
+<th>Other</th>
+</tr>
+<tr>
+<td>
+<ol>
+{% for track in site.other %}
+  <li><a href="{{ track.url }}">{{ track.title }}</a></li>
+{% endfor %}
+</ol></td>
 </tr>
 </table>
