@@ -39,5 +39,7 @@ collections:
     output: true
   closer:
     output: true
+  still:
+    output: true
   substance:
     output: true
