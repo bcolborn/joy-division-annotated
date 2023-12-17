@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+tr { vertical-align: top; }
+table tr:nth-child(even) { background-color: inherit; }
