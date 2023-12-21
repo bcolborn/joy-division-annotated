@@ -2,73 +2,73 @@
 title: Leaders of Men
 ---
 
-Born from some mother's womb --
+- Born from some mother's womb --
 
-Just like any other room
+- Just like any other room
 
-Made a promise for a new life --
+- Made a promise for a new life --
 
-Made a victim out of your life
+- Made a victim out of your life
 
-When your time's on the door --
+- When your time's on the door --
 
-And you trip on the floor
+- And you trip on the floor
 
-And you feel you can touch --
+- And you feel you can touch --
 
-All the noise is too much
+- All the noise is too much
 
-And the seeds that are sown --
+- And the seeds that are sown --
 
-Are no longer your own
+- Are no longer your own
 
-Just a minor operation --
+- Just a minor operation --
 
-To force the final ultimatum
+- To force the final ultimatum
 
-A thousand words are spoken loud
+- A thousand words are spoken loud
 
-Reach that gun to fool the crowds
+- Reach that gun to fool the crowds
 
-When you walk down the street and the
+- When you walk down the street and the
 
 sound that's so sweet
 
-And you wish you could hide --
+- And you wish you could hide --
 
-Maybe go for a ride
+- Maybe go for a ride
 
-To some picture arcade --
+- To some picture arcade --
 
-Where the future's not made
+- Where the future's not made
 
-A nightmare situation --
+- A nightmare situation --
 
-Infiltrate imagination
+- Infiltrate imagination
 
-Smacks of past holy wars --
+- Smacks of past holy wars --
 
-Fight a war with broken laws
+- Fight a war with broken laws
 
-The leaders of men --
+- The leaders of men --
 
-Born out of your frustration
+- Born out of your frustration
 
-The leaders of men --
+- The leaders of men --
 
-Just a strange infatuation
+- Just a strange infatuation
 
-The leaders of men -- Made
+- The leaders of men -- Made
 
 a promise for a new life
 
-No saviour for our sakes
+- No saviour for our sakes
 
-To crush the atrocities of hate
+- To crush the atrocities of hate
 
-Self-induced manipulation
+- Self-induced manipulation
 
-To crush all thoughts
+- To crush all thoughts
 
 of mass-salvation
 

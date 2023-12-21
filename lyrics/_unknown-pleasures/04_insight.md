@@ -2,63 +2,63 @@
 title: Insight
 ---
 
-Guess the dream always end
+- Guess the dream always end
 
-They don't rise up just descend
+- They don't rise up just descend
 
-But I don't care anymore
+- But I don't care anymore
 
-I've lost the will to want more
+- I've lost the will to want more
 
-I'm not afraid, not at all
+- I'm not afraid, not at all
 
-I watch them all as they fall
+- I watch them all as they fall
 
-But I remember, when we were young
-
-
-
-Those with habits of waste
-
-The sense of style and the taste
-
-Of making sure you were right
-
-Hey, don't you know you were right
-
-I'm not afraid anymore
-
-I keep my eyes on the door
-
-But I remember...
+- But I remember, when we were young
 
 
 
-Tears and sadness for you
+- Those with habits of waste
 
-Awe of evil for you
+- The sense of style and the taste
 
-Reflects a moment in time
+- Of making sure you were right
 
-A special moment in time
+- Hey, don't you know you were right
 
-Yeah, we wasted our time
+- I'm not afraid anymore
 
-We didn't really have time
+- I keep my eyes on the door
 
-But we remember - when we were young
+- But I remember...
 
 
 
-And all God's angels beware
+- Tears and sadness for you
 
-And all you judges beware
+- Awe of evil for you
 
-Sons of chance take good care
+- Reflects a moment in time
 
-For all the people out there
+- A special moment in time
 
-I'm not afraid anymore (4)
+- Yeah, we wasted our time
+
+- We didn't really have time
+
+- But we remember - when we were young
+
+
+
+- And all God's angels beware
+
+- And all you judges beware
+
+- Sons of chance take good care
+
+- For all the people out there
+
+- I'm not afraid anymore (4)
 
 
 

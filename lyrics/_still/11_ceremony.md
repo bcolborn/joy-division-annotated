@@ -3,33 +3,33 @@ title: Ceremony
 ---
 
 
-I've heard them all,
+- I've heard them all,
 
 no mercy shown
 
-Heaven knows it's got to be this time
+- Heaven knows it's got to be this time
 
-What she'd heard,
+- What she'd heard,
 
 these things she said
 
-This time she cried
+- This time she cried
 
 and failed to wait, this time
 
 
 
-Oh I've heard them all, no mercy shown
+- Oh I've heard them all, no mercy shown
 
-Heaven knows it's got to be this time
+- Heaven knows it's got to be this time
 
-Avenues all lined with trees
+- Avenues all lined with trees
 
-Pictures me and then you start watching,
+- Pictures me and then you start watching,
 
 watching forever (2)
 
-Forever - watching love grow
+- Forever - watching love grow
 
-Forever - letting me know (2)
+- Forever - letting me know (2)
 

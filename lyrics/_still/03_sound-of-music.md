@@ -4,49 +4,49 @@ title: Sound of Music
 
 
 
-See my true reflection
+- See my true reflection
 
 put out my own connections
 
-I can see it's getting
+- I can see it's getting
 
 harder, so sad is this sensation
 
-Reverse the situation,
+- Reverse the situation,
 
-I can't see it getting better
+- I can't see it getting better
 
 
 
-I'll walk you through the heartbreak,
+- I'll walk you through the heartbreak,
 
 show you all the out-taken
 
-I can't see it getting higher,
+- I can't see it getting higher,
 
 systematically degraded
 
-Emotionally a scapegoat,
+- Emotionally a scapegoat,
 
-I can't see it getting higher
+- I can't see it getting higher
 
 
 
-For person unrealistic,
+- For person unrealistic,
 
 try to make it all stick
 
-I can see it getting harder,
+- I can see it getting harder,
 
 all am now am burnt out
 
-All I need's a break out,
+- All I need's a break out,
 
-I can't see it getting higher
+- I can't see it getting higher
 
 
 
-Love - life don't you feel we're
+- Love - life don't you feel we're
 
 higher, higher, higher
 

@@ -2,75 +2,75 @@
 title: Failures
 ---
 
-Don't speak a false facade
+- Don't speak a false facade
 
-Failure of modern man
+- Failure of modern man
 
-To the centre of our face he dived
+- To the centre of our face he dived
 
-Has a hold on a nose of red
+- Has a hold on a nose of red
 
-Grew up in a hall of steel
+- Grew up in a hall of steel
 
-Made the image of your fathers son
+- Made the image of your fathers son
 
-Not to an inner feel
+- Not to an inner feel
 
-He was thought of as the only one
-
-
-
-He no longer denies --
-
-All the failures of the modern man
-
-He no longer decides --
-
-Sees the failures of the modern man
-
-Wise words and sympathy
-
-Tell the story of our history
-
-New strength gives a real touch
-
-Sense of reasons make it all too much
-
-With a strange fatality
-
-Fade the spirits of a lesser man
-
-Some other race could see
-
-In his way he was the only one
+- He was thought of as the only one
 
 
 
-He no longer denied --
+- He no longer denies --
 
-All the failures of the modern man
+- All the failures of the modern man
 
-No, no his God decides --
+- He no longer decides --
 
-See the failures of the modern man
+- Sees the failures of the modern man
 
-Now that it's right to decide
+- Wise words and sympathy
 
-In his time he was the total man
+- Tell the story of our history
 
-Taken from Caesar's side
+- New strength gives a real touch
 
-Kept in silence just to prove
+- Sense of reasons make it all too much
+
+- With a strange fatality
+
+- Fade the spirits of a lesser man
+
+- Some other race could see
+
+- In his way he was the only one
+
+
+
+- He no longer denied --
+
+- All the failures of the modern man
+
+- No, no his God decides --
+
+- See the failures of the modern man
+
+- Now that it's right to decide
+
+- In his time he was the total man
+
+- Taken from Caesar's side
+
+- Kept in silence just to prove
 
 us wrong
 
-No, no his God decides
+- No, no his God decides
 
-All the failures of the modern man
+- All the failures of the modern man
 
-No, no longer denies
+- No, no longer denies
 
-All the failures of the modern man
+- All the failures of the modern man
 
 
 

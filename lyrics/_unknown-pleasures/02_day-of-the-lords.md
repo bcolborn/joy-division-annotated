@@ -8,19 +8,19 @@ title: Day of the lords
 
 
 
-This is the room, the start of it all
+- This is the room, the start of it all
 
 
 
-No portrait so fine, only sheets on the wall
+- No portrait so fine, only sheets on the wall
 
 
 
-I've seen the nights, filled with bloodsport and pain
+- I've seen the nights, filled with bloodsport and pain
 
 
 
-And the bodies obtained, the bodies obtained
+- And the bodies obtained, the bodies obtained
 
 
 
@@ -30,19 +30,19 @@ And the bodies obtained, the bodies obtained
 
 
 
-Where will it end?
+- Where will it end?
 
 
 
-Where will it end?
+- Where will it end?
 
 
 
-Where will it end?
+- Where will it end?
 
 
 
-Where will it end?
+- Where will it end?
 
 
 
@@ -52,19 +52,19 @@ Where will it end?
 
 
 
-These are your friends from childhood, through youth
+- These are your friends from childhood, through youth
 
 
 
-Who goaded you on, demanded more proof
+- Who goaded you on, demanded more proof
 
 
 
-Withdrawal pain is hard, it can do you right in
+- Withdrawal pain is hard, it can do you right in
 
 
 
-So distorted and thin, distorted and thin
+- So distorted and thin, distorted and thin
 
 
 
@@ -74,17 +74,17 @@ So distorted and thin, distorted and thin
 
 
 
-Where will it end?
+- Where will it end?
 
 
 
-Where will it end?
+- Where will it end?
 
 
 
-Where will it end?
+- Where will it end?
 
 
 
-Where will it end?
+- Where will it end?
 

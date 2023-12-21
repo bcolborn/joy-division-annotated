@@ -4,57 +4,57 @@ title: The Kill
 
 
 
-Moved in a hired car
+- Moved in a hired car
 
 and I find no way to run
 
-Adds every moment longer
+- Adds every moment longer
 
 had no time for fun
 
-Just something that I knew I had to do
+- Just something that I knew I had to do
 
-But through it all
+- But through it all
 
-I kept my eyes on you
-
-
-
-I had an impulse to clear it all away
-
-I used the tactics - make everybody pay
-
-Just something that I knew I had to do
-
-But through it all
-
-I kept my eyes on you
+- I kept my eyes on you
 
 
 
-Oh I keep it all traded in
+- I had an impulse to clear it all away
 
-I've paid the graces there
+- I used the tactics - make everybody pay
 
-No kidding, misuse -
+- Just something that I knew I had to do
+
+- But through it all
+
+- I kept my eyes on you
+
+
+
+- Oh I keep it all traded in
+
+- I've paid the graces there
+
+- No kidding, misuse -
 
 no sign of blood
 
 
 
-Just something that I knew I had to do
+- Just something that I knew I had to do
 
-But through it all
+- But through it all
 
-I kept my eyes on you
+- I kept my eyes on you
 
-Yeah through it all
+- Yeah through it all
 
-I kept my eyes on you
+- I kept my eyes on you
 
-But through it all
+- But through it all
 
-I kept my eyes on you
+- I kept my eyes on you
 
 
 

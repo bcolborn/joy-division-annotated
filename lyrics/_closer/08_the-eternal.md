@@ -2,63 +2,63 @@
 title: The Eternal
 ---
 
-Procession moves on, the shouting is over
+- Procession moves on, the shouting is over
 
-Praise to the glory of loved ones
+- Praise to the glory of loved ones
 
 now gone
 
-Talking aloud as they sit
+- Talking aloud as they sit
 
 round their tables
 
-Scattering flowers washed down by the rain
+- Scattering flowers washed down by the rain
 
 
 
-Stood by the gate at the foot of the garden
+- Stood by the gate at the foot of the garden
 
-Watching them pass like clouds in the sky
+- Watching them pass like clouds in the sky
 
-Try to cry out in the heat of the moment
+- Try to cry out in the heat of the moment
 
-Possessed by a fury
+- Possessed by a fury
 
 that burns from inside
 
 
 
-Cry like a child though
+- Cry like a child though
 
 these years make me older
 
-With children my time
+- With children my time
 
 is so wastefully spent
 
-Burden to keep, though their
+- Burden to keep, though their
 
 inner communion
 
-Accept like a curse
+- Accept like a curse
 
 an unlucky deal
 
 
 
-Laid by the gate at the foot
+- Laid by the gate at the foot
 
 of the garden
 
-My view stretches out
+- My view stretches out
 
 from the fence to the wall
 
-No words could explain,
+- No words could explain,
 
 no actions determine
 
-Just watching the trees
+- Just watching the trees
 
 and the leaves as they fall
 

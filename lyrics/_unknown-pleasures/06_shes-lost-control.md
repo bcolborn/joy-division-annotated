@@ -2,21 +2,21 @@
 title: She's Lost Control
 ---
 
-Confusion in her eyes that says it all -
+- Confusion in her eyes that says it all -
 
-She's lost control
+- She's lost control
 
-And she's clinging to the nearest passer-by
+- And she's clinging to the nearest passer-by
 
-She's lost control
+- She's lost control
 
-And she gave away the secrets of her past
+- And she gave away the secrets of her past
 
-And said "I've lost control again."
+- And said "I've lost control again."
 
 
 
-And she turned to me
+- And she turned to me
 
 and took me by the hand
 
@@ -26,45 +26,45 @@ and how I'll never know just why
 
 or understand
 
-She said "I've lost control again"
+- She said "I've lost control again"
 
-And she screamed out, kicking on her side
+- And she screamed out, kicking on her side
 
-And seized up on the floor -
+- And seized up on the floor -
 
-I thought she'd died
+- I thought she'd died
 
-She said "I've lost control again"
+- She said "I've lost control again"
 
-She's lost control again -
+- She's lost control again -
 
 she's lost control
 
 
 
-Well I had to phone her friend
+- Well I had to phone her friend
 
 to state her case and say
 
 she's lost control again
 
-And she showed up all the errors
+- And she showed up all the errors
 
 and mistakes
 
 and said "I've lost control again"
 
-But she expressed herself in many
+- But she expressed herself in many
 
 different ways
 
 until she'd control again
 
-And walked upon the edge of no escape
+- And walked upon the edge of no escape
 
 and laughed "I've lost control again"
 
-She's lost control again,
+- She's lost control again,
 
 she's lost control (2)
 

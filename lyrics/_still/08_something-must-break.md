@@ -4,53 +4,53 @@ title: Something Must Break
 
 
 
-To waste and choose or raise the dead
+- To waste and choose or raise the dead
 
-With pain behind go straight ahead
+- With pain behind go straight ahead
 
-Room full of people grouping
+- Room full of people grouping
 
 as one
 
-I can't break out now
+- I can't break out now
 
 the time just won't come
 
 
 
-To waste and choose which way to go
+- To waste and choose which way to go
 
-Decide for me please let me know
+- Decide for me please let me know
 
-Looked in the mirror
+- Looked in the mirror
 
 saw I was wrong
 
-If I could get back to - where I belong
+- If I could get back to - where I belong
 
 
 
-To waste and choose which way to go
+- To waste and choose which way to go
 
-I paused for one
+- I paused for one
 
 whom signs forbode
 
-If we were immortal we would not bear
+- If we were immortal we would not bear
 
-Washed up on the beat here
+- Washed up on the beat here
 
-Struggle for air
+- Struggle for air
 
-I see you face still in my window
+- I see you face still in my window
 
-Tormented clouds won't set me free
+- Tormented clouds won't set me free
 
-Something must break now -
+- Something must break now -
 
 this life isn't mine
 
-Something must break now -
+- Something must break now -
 
 wait for the time
 

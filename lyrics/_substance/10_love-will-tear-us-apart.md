@@ -2,55 +2,55 @@
 title: Love Will Tear Us Apart
 ---
 
-When the routine bites hard
+- When the routine bites hard
 
 and ambitions are low
 
-And the resentment rides high
+- And the resentment rides high
 
 but emotions won't grow
 
-And we're changing our ways,
+- And we're changing our ways,
 
 taking different roads
 
-Then love, love will tear us apart
+- Then love, love will tear us apart
 
 again (4)
 
 
 
-Why is the bedroom so cold
+- Why is the bedroom so cold
 
-Turned away on your side?
+- Turned away on your side?
 
-Is my timing that flawed,
+- Is my timing that flawed,
 
 our respect run so dry?
 
-Yet there's still this appeal
+- Yet there's still this appeal
 
-That we've kept through
+- That we've kept through
 
 our lives
 
-Love, love will tear us apart again (4)
+- Love, love will tear us apart again (4)
 
 
 
-Do you cry out in your sleep
+- Do you cry out in your sleep
 
-All my failings expose?
+- All my failings expose?
 
-Get a taste in my mouth
+- Get a taste in my mouth
 
-As desperation takes hold
+- As desperation takes hold
 
-Is it something so good
+- Is it something so good
 
-Just can't function no more?
+- Just can't function no more?
 
-When love, love will tear us apart
+- When love, love will tear us apart
 
 again (4)
 

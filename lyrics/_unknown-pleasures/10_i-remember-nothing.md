@@ -2,49 +2,49 @@
 title: I Remember Nothing
 ---
 
-We were strangers, we were strangers,
+- We were strangers, we were strangers,
 
-Away too long,
+- Away too long,
 
 away too long
 
-We were violent strangers,
+- We were violent strangers,
 
 away too long,
 
-Get weak all the time,
+- Get weak all the time,
 
 we just passed the time
 
-Me in my own world, yeah you there beside
+- Me in my own world, yeah you there beside
 
-The gaps only moment,
+- The gaps only moment,
 
 we stared from each side
 
-We were strangers, away too long
+- We were strangers, away too long
 
 
 
-Violent, more violent his hand
+- Violent, more violent his hand
 
 cracks the chair
 
-Moves on reaction, then slumps,
+- Moves on reaction, then slumps,
 
 in despair
 
-Trapped in a cage and surrendered
+- Trapped in a cage and surrendered
 
 too soon
 
-Me in my own world
+- Me in my own world
 
-Away too long
+- Away too long
 
-We were strangers (2)
+- We were strangers (2)
 
-Away too long (2)
+- Away too long (2)
 
 
 
