@@ -1,13 +1,7 @@
 ---
 title: Incubation
 ---
-
 (instrumental)
-
-
-
-
-
 
 
 
