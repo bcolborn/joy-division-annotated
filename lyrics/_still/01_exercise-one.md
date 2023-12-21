@@ -16,6 +16,5 @@ still in their cars
 when you reach outside
 - Time for one last ride
 before the end of it all
-
-
+{:.verse}
 

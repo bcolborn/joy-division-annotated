@@ -8,12 +8,14 @@ title: Something Must Break
 as one
 - I can't break out now
 the time just won't come
+{:.verse}
 
 - To waste and choose which way to go
 - Decide for me please let me know
 - Looked in the mirror
 saw I was wrong
 - If I could get back to - where I belong
+{:.verse}
 
 - To waste and choose which way to go
 - I paused for one
@@ -27,6 +29,5 @@ whom signs forbode
 this life isn't mine
 - Something must break now -
 wait for the time
-
-
+{:.verse}
 

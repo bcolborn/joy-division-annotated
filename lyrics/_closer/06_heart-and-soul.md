@@ -29,4 +29,5 @@ for good reason
 - Heart and soul, one will burn (2)
 - One will burn, one will burn
 - Heart and Soul, one will burn
+{:.verse}
 

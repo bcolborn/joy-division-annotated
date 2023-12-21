@@ -9,6 +9,7 @@ turned on its side
 marks every move
 - Deep in the memory,
 what once was love
+{:.verse}
 
 - Oh how I've realized, I wanted time
 - Put into perspective,
@@ -17,6 +18,7 @@ try so hard to find
 - I'd got my way
 - Destiny unfolded -
 watched it slip away
+{:.verse}
 
 - Excessive flash points,
 beyond all reach
@@ -26,6 +28,7 @@ beyond all reach
 see what we can find
 - Valueless collection of hopes
 and past desires
+{:.verse}
 
 - I never realized the lengths
 - I'd have to go
@@ -35,6 +38,7 @@ and past desires
 hearing someone call
 - Looked beyond the day in hand
 - There's nothing there at all
+{:.verse}
 
 - Now that I've realized how it's
 all gone wrong
@@ -44,4 +48,5 @@ this treatment takes too long
 sympathy held sway
 - Got to find my destiny before
 it gets too late
+{:.verse}
 

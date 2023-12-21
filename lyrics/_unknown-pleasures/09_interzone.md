@@ -49,6 +49,5 @@ have to keep on going
 - And I was looking for a friend of mine
 - And I have no time to lose
 - Yeah, I was looking for a friend of mine
-
-
+{:.verse}
 

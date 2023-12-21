@@ -6,6 +6,7 @@ title: Atmosphere
 - See the danger -- always danger
 - Endless talking -- life rebuilding
 - Don't walk away
+{:.verse}
 
 - Walk -- in silence
 - Don't turn away -- in silence
@@ -14,6 +15,7 @@ title: Atmosphere
 of self-hate
 - Confronts and then dies
 - Don't walk away
+{:.verse}
 
 - People like you -- find it easy
 - Aching to see -- walking on air
@@ -22,6 +24,5 @@ every corner abandoned to soon
 - Set down with due care
 don't walk away -- in silence --
 - Don't walk away
-
-
+{:.verse}
 

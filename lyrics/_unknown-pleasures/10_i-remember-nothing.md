@@ -12,6 +12,7 @@ we just passed the time
 - The gaps only moment,
 we stared from each side
 - We were strangers, away too long
+{:.verse}
 
 - Violent, more violent his hand
 cracks the chair

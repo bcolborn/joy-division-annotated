@@ -20,6 +20,7 @@ or understand
 - She said "I've lost control again"
 - She's lost control again -
 she's lost control
+{:.verse}
 
 - Well I had to phone her friend
 to state her case and say

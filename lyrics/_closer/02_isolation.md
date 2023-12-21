@@ -9,6 +9,7 @@ title: Isolation
 >From others who care for themselves
 - But life as it touches perfection
 - Appears just like anything else
+{:.verse}
 
 - Isolation (3)
 - Mother, I tried, please believe me
@@ -16,6 +17,7 @@ title: Isolation
 - I'm ashamed of the things
 - I've been put through
 - I'm ashamed of the person I am
+{:.verse}
 
 - Isolation (3)
 - But if you could just see the beauty

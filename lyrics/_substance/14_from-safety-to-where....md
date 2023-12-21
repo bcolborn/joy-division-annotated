@@ -12,6 +12,7 @@ and retreat back again
 that are turned
 - The memory's scarred
 and the vision blurred
+{:.verse}
 
 - No, I don't know which way,
 - Don't know which way to turn

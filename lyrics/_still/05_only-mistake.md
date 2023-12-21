@@ -20,6 +20,7 @@ for the day
 once before
 - Yeah, the only mistake could have
 made it before
+{:.verse}
 
 - Strain - take the strain,
 these days - we learn
@@ -33,6 +34,5 @@ feelings and sounds
 - I made once before
 - Yeah the only mistake could have
 made it before
-
-
+{:.verse}
 

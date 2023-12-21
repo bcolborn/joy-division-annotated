@@ -8,6 +8,7 @@ work so hard for everything you've got
 - Not when you've got none
 - You'll find yourself in a gutter
 - Right back where you came from
+{:.verse}
 
 - Someone told me being in the know
 is the main thing
@@ -17,6 +18,7 @@ that belonging brings
 against all the odds
 - You all just fall behind like all
 the other sods
+{:.verse}
 
 - You slap your back
 and pretend you knew about

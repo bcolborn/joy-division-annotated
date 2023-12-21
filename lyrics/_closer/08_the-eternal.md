@@ -7,12 +7,14 @@ now gone
 - Talking aloud as they sit
 round their tables
 - Scattering flowers washed down by the rain
+{:.verse}
 
 - Stood by the gate at the foot of the garden
 - Watching them pass like clouds in the sky
 - Try to cry out in the heat of the moment
 - Possessed by a fury
 that burns from inside
+{:.verse}
 
 - Cry like a child though
 these years make me older
@@ -22,6 +24,7 @@ is so wastefully spent
 inner communion
 - Accept like a curse
 an unlucky deal
+{:.verse}
 
 - Laid by the gate at the foot
 of the garden
@@ -31,4 +34,5 @@ from the fence to the wall
 no actions determine
 - Just watching the trees
 and the leaves as they fall
+{:.verse}
 

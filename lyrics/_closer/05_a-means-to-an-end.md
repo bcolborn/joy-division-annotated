@@ -24,4 +24,5 @@ our vision touched the skies
 - I put my trust in you (4)
 - In you, in you, in you
 - Put my trust in you, in you
+{:.verse}
 

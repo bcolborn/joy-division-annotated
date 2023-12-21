@@ -32,6 +32,5 @@ hearing no at all
 - To make believe you were right!
 3 - 1 - G (3)
 3 - 5 - 0 - 1 - 2 - 5
-
-
+{:.verse}
 

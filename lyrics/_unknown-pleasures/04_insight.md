@@ -8,6 +8,7 @@ title: Insight
 - I'm not afraid, not at all
 - I watch them all as they fall
 - But I remember, when we were young
+{:.verse}
 
 - Those with habits of waste
 - The sense of style and the taste
@@ -24,6 +25,7 @@ title: Insight
 - Yeah, we wasted our time
 - We didn't really have time
 - But we remember - when we were young
+{:.verse}
 
 - And all God's angels beware
 - And all you judges beware

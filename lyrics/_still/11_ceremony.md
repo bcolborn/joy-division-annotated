@@ -9,6 +9,7 @@ no mercy shown
 these things she said
 - This time she cried
 and failed to wait, this time
+{:.verse}
 
 - Oh I've heard them all, no mercy shown
 - Heaven knows it's got to be this time

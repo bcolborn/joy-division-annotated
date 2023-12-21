@@ -12,6 +12,7 @@ admire the distance
 - Directionless, so plain to see
 - A loaded gun won't set you free
 - So you say
+{:.verse}
 
 - We'll share a drink and step outside
 - An angry voice and one who cried
@@ -25,6 +26,5 @@ run through fire
 - Hoping for something more
 - Me - see me in this time -
 - Hoping for something else
-
-
+{:.verse}
 

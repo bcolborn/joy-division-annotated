@@ -9,6 +9,7 @@ title: Failures
 - Made the image of your fathers son
 - Not to an inner feel
 - He was thought of as the only one
+{:.verse}
 
 - He no longer denies --
 - All the failures of the modern man
@@ -22,6 +23,7 @@ title: Failures
 - Fade the spirits of a lesser man
 - Some other race could see
 - In his way he was the only one
+{:.verse}
 
 - He no longer denied --
 - All the failures of the modern man
@@ -36,6 +38,5 @@ us wrong
 - All the failures of the modern man
 - No, no longer denies
 - All the failures of the modern man
-
-
+{:.verse}
 

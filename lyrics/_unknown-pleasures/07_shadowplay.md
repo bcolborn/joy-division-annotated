@@ -9,6 +9,7 @@ where all hopes sank searching for you
 waiting for you
 - In a room with no window in the corner,
 - I found truth
+{:.verse}
 
 - In the shadowplay, acting out your
 own death, knowing more
@@ -19,6 +20,7 @@ in four lines,
 made a move to connect
 - I could only stare in disbelief
 as the crowds all left
+{:.verse}
 
 - I did everything, everything I wanted to
 - I let them use you -

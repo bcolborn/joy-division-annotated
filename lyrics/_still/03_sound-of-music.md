@@ -8,6 +8,7 @@ put out my own connections
 harder, so sad is this sensation
 - Reverse the situation,
 - I can't see it getting better
+{:.verse}
 
 - I'll walk you through the heartbreak,
 show you all the out-taken
@@ -15,6 +16,7 @@ show you all the out-taken
 systematically degraded
 - Emotionally a scapegoat,
 - I can't see it getting higher
+{:.verse}
 
 - For person unrealistic,
 try to make it all stick
@@ -22,6 +24,7 @@ try to make it all stick
 all am now am burnt out
 - All I need's a break out,
 - I can't see it getting higher
+{:.verse}
 
 - Love - life don't you feel we're
 higher, higher, higher

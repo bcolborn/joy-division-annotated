@@ -8,11 +8,13 @@ lost the heart
 - Corrupted from memory, no longer the power
 - It's creeping up slowly, that last
 fatal hour
+{:.verse}
 
 - Oh I don't know what made me,
 or what gave me the night
 - To mess with your values
 - And change wrong to right
+{:.verse}
 
 - Please keep your distance
 the trail leads to here,
@@ -22,6 +24,7 @@ brought on by fear
 - I worked hard for this
 - I tried to get to you
 you treat me like this
+{:.verse}
 
 - It's just second nature,
 it's what we've been shown
@@ -29,6 +32,5 @@ it's what we've been shown
 that's all that we know
 - I tried to get to you (3)
 - Oh how I tried to get to you
-
-
+{:.verse}
 

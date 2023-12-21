@@ -7,6 +7,7 @@ we used to meet always here
 - As he lays asleep she takes him in her arms
 - Some things I have to do
 but I don't mean you harm
+{:.verse}
 
 - I wore a careless glance
 and kissed her last goodbye
@@ -16,6 +17,7 @@ she tries to hide
 to our lunacy
 - And leaves him standing cold
 here in this colony
+{:.verse}
 
 - I can't see why
 all these confrontations

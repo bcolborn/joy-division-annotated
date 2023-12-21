@@ -14,6 +14,7 @@ wrong
 - Staying in the same place,
 just staring at the tide
 - Touching from a distance, further all the time
+{:.verse}
 
 - Dance, dance, dance, dance,
 dance to the radio (4)

@@ -9,6 +9,7 @@ title: Dead Souls
 - They keep calling me
 - Keep on calling me
 - They keep calling me
+{:.verse}
 
 - When figures from the past stand tall
 - And mocking voices ring the hall
@@ -19,6 +20,7 @@ their share
 - They keep calling me
 - Keep on calling me
 - They keep calling me
+{:.verse}
 
 - Calling me, calling me (2)
 - They keep calling me

@@ -36,6 +36,5 @@ a promise for a new life
 - Self-induced manipulation
 - To crush all thoughts
 of mass-salvation
-
-
+{:.verse}
 

@@ -5,6 +5,7 @@ title: Wilderness
 different times
 - What did you see there?
 - I saw all knowledge destroyed
+{:.verse}
 
 - I traveled far and wide to prisons
 of the cross
@@ -14,6 +15,7 @@ of the cross
 - The blood of Christ on their skins
 - I traveled far and wide through many
 different times
+{:.verse}
 
 - I traveled far and wide where
 unknown martyrs died

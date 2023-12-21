@@ -45,6 +45,5 @@ she's lost control (2)
 - When the caring's gone
 - To lose control --
 when the caring's gone
-
-
+{:.verse}
 
