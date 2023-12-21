@@ -1,6 +1,7 @@
 ---
 title: Isolation
 ---
+
 - Be clear every day, every evening
 - It calls here aloud from above
 - Carefully watched for a reason

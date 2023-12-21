@@ -1,6 +1,7 @@
 ---
 title: These Days
 ---
+
 - Morning seems strange, almost out of place
 - Searched hard for you and your special ways
 - These days -- please stay

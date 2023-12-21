@@ -1,6 +1,7 @@
 ---
 title: Atmosphere
 ---
+
 - Walk -- in silence
 - Don't walk away -- in silence
 - See the danger -- always danger

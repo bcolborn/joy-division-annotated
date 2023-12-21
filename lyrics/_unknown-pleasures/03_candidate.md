@@ -1,6 +1,7 @@
 ---
 title: Candidate
 ---
+
 - Forced by the pressure, the territory's
 marked
 - No longer the pleasure, Oh I've since

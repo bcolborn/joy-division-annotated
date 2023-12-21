@@ -1,6 +1,7 @@
 ---
 title: Novelty
 ---
+
 - When the people listen to you don't you
 know it means a lot 'cos you've got to
 work so hard for everything you've got

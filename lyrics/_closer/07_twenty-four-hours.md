@@ -1,6 +1,7 @@
 ---
 title: Twenty-four Hours
 ---
+
 - So this is permanence -
 - Love shattered pride
 - What once was innocence,

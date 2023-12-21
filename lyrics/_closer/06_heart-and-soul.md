@@ -1,6 +1,7 @@
 ---
 title: Heart and Soul
 ---
+
 - Instants that can still betray us
 - A journey that leads to the sun
 - Soulless and bent on destruction

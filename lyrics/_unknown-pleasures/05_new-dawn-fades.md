@@ -1,6 +1,7 @@
 ---
 title: New Dawn Fades
 ---
+
 - Change of speed, a change of style
 - A change of scene, with no regrets
 - A chance to watch

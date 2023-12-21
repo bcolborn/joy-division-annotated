@@ -1,6 +1,7 @@
 ---
 title: Love Will Tear Us Apart
 ---
+
 - When the routine bites hard
 and ambitions are low
 - And the resentment rides high

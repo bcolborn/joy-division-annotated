@@ -1,6 +1,7 @@
 ---
 title: The Eternal
 ---
+
 - Procession moves on, the shouting is over
 - Praise to the glory of loved ones
 now gone

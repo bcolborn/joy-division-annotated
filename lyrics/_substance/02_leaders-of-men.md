@@ -1,6 +1,7 @@
 ---
 title: Leaders of Men
 ---
+
 - Born from some mother's womb --
 - Just like any other room
 - Made a promise for a new life --

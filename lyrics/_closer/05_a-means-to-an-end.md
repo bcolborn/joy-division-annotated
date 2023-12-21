@@ -1,6 +1,7 @@
 ---
 title: A Means to an End
 ---
+
 - A legacy, so far removed
 - One day will be improved
 - Eternal rights beleft behind,

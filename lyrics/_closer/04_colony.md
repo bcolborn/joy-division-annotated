@@ -1,6 +1,7 @@
 ---
 title: Colony
 ---
+
 - A cry for help, a hint of anaesthesia
 - The sound from broken homes,
 we used to meet always here

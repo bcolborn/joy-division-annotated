@@ -1,6 +1,7 @@
 ---
 title: Insight
 ---
+
 - Guess the dream always end
 - They don't rise up just descend
 - But I don't care anymore

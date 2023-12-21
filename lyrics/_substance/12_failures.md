@@ -1,6 +1,7 @@
 ---
 title: Failures
 ---
+
 - Don't speak a false facade
 - Failure of modern man
 - To the centre of our face he dived

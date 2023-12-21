@@ -1,6 +1,7 @@
 ---
 title: Passover
 ---
+
 - This is the crises I knew had to come
 - Destroying the balance
 - I'd kept
