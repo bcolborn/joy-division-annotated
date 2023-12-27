@@ -26,8 +26,4 @@ title: Dead Souls
 - They keep calling me
 - Keep on calling me
 - The keep calling me (2)
-
-
-
-
-
+{:.verse}

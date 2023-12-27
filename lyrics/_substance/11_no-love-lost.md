@@ -5,25 +5,24 @@ title: No Love Lost
 - So long sitting here --
 - Didn't here the warning
 - Waiting for the tape to run
-- We've been moving round in different
-situations
+- We've been moving round in different situations
 - Knowing that the time would come
 - Knowing that the time would come
 - Just to see you torn apart --
-witness to your empty heart
+- Witness to your empty heart
 - I need it (3)
 
 - Through the wire screen the eyes
-of those standing outside
-locked in at her as if into the cage
-of some rare creature in a zoo.
+- Of those standing outside
+- Locked in at her as if into the cage
+- Of some rare creature in a zoo.
 - In the hand of one of the assistants she saw
-the same instrument which they had that
-morning inserted deep
-into her body.
+- The same instrument which they had that
+- Morning inserted deep into her body.
 - She shuddered instinctively.
-- No life at all in the House
-of Dolls. No love lost (3)
+- No life at all in the House of Dolls
+- No love lost (3)
+{:.verse}
 
 - You've been seeing things in darkness --
 - Running, learning
@@ -35,4 +34,3 @@ of Dolls. No love lost (3)
 - To watch the feeling fades
 - I need it
 {:.verse}
-

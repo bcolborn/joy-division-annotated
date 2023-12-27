@@ -33,8 +33,7 @@ title: Failures
 - Now that it's right to decide
 - In his time he was the total man
 - Taken from Caesar's side
-- Kept in silence just to prove
-us wrong
+- Kept in silence just to prove us wrong
 - No, no his God decides
 - All the failures of the modern man
 - No, no longer denies

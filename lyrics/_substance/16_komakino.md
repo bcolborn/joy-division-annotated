@@ -16,8 +16,7 @@ deep inside
 - Impulse that blinds every move
 - Shadow that stood by the side of the road
 - Always reminds me of you
-- How can I find the right way
-to control
+- How can I find the right way to control
 - All the conflicts inside,
 - All the problems beside
 - As the questions are right,

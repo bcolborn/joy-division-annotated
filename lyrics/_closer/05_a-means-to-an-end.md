@@ -8,14 +8,15 @@ title: A Means to an End
 - We were the better kind
 - You this day met free too,
 - I always looked to you (3)
+{:.verse}
 
-- We fought for good,
-stood side by side
+- We fought for good, stood side by side
 - Our friendship never died
 - But stranger ways that froze on highs,
-our vision touched the skies
+- our vision touched the skies
 - Mortal list - the points to prove
 - I put my trust in you (3)
+{:.verse}
 
 - A house somewhere, on foreign soil
 - Where aching lovers called

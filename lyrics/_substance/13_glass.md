@@ -15,6 +15,7 @@ title: Glass
 - Lay your hand -- where it's safe
 - And do it again
 - Do it again and again and again (4)
+{:.verse}
 
 - Anytime -- that's allright
 - Told ya we should do it again
@@ -25,6 +26,4 @@ title: Glass
 - Told ya we should do it again
 - I betcha we should do it again
 - Do it again (5)
-
-
-
+{:.verse}

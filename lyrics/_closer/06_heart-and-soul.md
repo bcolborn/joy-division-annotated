@@ -10,7 +10,9 @@ title: Heart and Soul
 - I'll observe with a pitiful eye
 - And humble ask for forgiveness
 - A request well beyond you and I
-- Heart and soul, one will burn (2)
+- Heart and soul, one will burn
+- Heart and Soul, one will burn
+{:.verse}
 
 - An abyss that lasted creation
 - A circus complete with all fools
@@ -19,9 +21,11 @@ title: Heart and Soul
 - Beyond all this good the terror
 - The grip of a mercenary hand
 - When savagery returns
-for good reason
+  for good reason
 - There's no turning back the last stand
-- Heart and soul, one will burn (2)
+- Heart and soul, one will burn
+- Heart and Soul, one will burn
+{:.verse}
 
 - Existence-well what does it matter
 - I exist on the best terms I can
@@ -31,4 +35,3 @@ for good reason
 - One will burn, one will burn
 - Heart and Soul, one will burn
 {:.verse}
-

@@ -18,6 +18,7 @@ title: Insight
 - I'm not afraid anymore
 - I keep my eyes on the door
 - But I remember...
+{:.verse}
 
 - Tears and sadness for you
 - Awe of evil for you
@@ -33,6 +34,4 @@ title: Insight
 - Sons of chance take good care
 - For all the people out there
 - I'm not afraid anymore (4)
-
-
-
+{:.verse}

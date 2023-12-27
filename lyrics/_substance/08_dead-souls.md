@@ -15,8 +15,7 @@ title: Dead Souls
 - When figures from the past stand tall
 - And mocking voices ring the hall
 - Imperialistic house of prayer
-- Conquistadores who took
-their share
+- Conquistadores who took their share
 - And keep calling me
 - They keep calling me
 - Keep on calling me
@@ -27,6 +26,4 @@ their share
 - They keep calling me
 - Keep on calling me
 - The keep calling me (2)
-
-
-
+{:.verse}

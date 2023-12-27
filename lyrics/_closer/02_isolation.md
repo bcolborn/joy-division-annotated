@@ -26,4 +26,4 @@ title: Isolation
 - Pleasures and wayward distraction
 - Is this my wonderful prize?
 - Isolation (5)
-
+{:.verse}

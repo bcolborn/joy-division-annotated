@@ -3,8 +3,8 @@ title: Novelty
 ---
 
 - When the people listen to you don't you
-know it means a lot 'cos you've got to
-work so hard for everything you've got
+- Know it means a lot 'cos you've got to
+- Work so hard for everything you've got
 - Can't rest on your laurels now
 - Not when you've got none
 - You'll find yourself in a gutter
@@ -12,33 +12,30 @@ work so hard for everything you've got
 {:.verse}
 
 - Someone told me being in the know
-is the main thing
+- Is the main thing
 - We all need the security
-that belonging brings
+- That belonging brings
 - Can't stand on your own in these times
-against all the odds
+- Against all the odds
 - You all just fall behind like all
-the other sods
+- The other sods
 {:.verse}
 
 - You slap your back
-and pretend you knew about
-all the things that we were gonna do
+- And pretend you knew about
+- All the things that we were gonna do
 - What ya gonna do, what ya gonna do
-when it's over?
+- When it's over?
 - You're all on your own now,
 - Don't you think that's a shame
 - But you're the only one responsible
-to take the blame
+- To take the blame
 - So what ya gonna do when the novelty
-has gone
+- Has gone
 - Yeah, what ya gonna do when the novelty
-has gone
+- Has gone
 - You slap your backs
-and pretend you knew about
-all the things we were gonna do
+- And pretend you knew about
+- All the things we were gonna do
 - What ya gonna do, what ya gonna do
 - When its over?
-
-
-

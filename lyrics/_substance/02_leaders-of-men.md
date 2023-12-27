@@ -35,7 +35,6 @@ a promise for a new life
 - No saviour for our sakes
 - To crush the atrocities of hate
 - Self-induced manipulation
-- To crush all thoughts
-of mass-salvation
+- To crush all thoughts of mass-salvation
 {:.verse}
 

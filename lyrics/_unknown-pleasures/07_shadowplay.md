@@ -2,32 +2,30 @@
 title: Shadowplay
 ---
 
-- To the centre of the city where all roads
-meet looking for you
-- To the depths of the ocean
-where all hopes sank searching for you
+- To the centre of the city where all roads meet 
+- Looking for you
+- To the depths of the ocean where all hopes sank
+- Searching for you
 - Moving through the silence without motion
-waiting for you
+- Waiting for you
 - In a room with no window in the corner,
 - I found truth
 {:.verse}
 
-- In the shadowplay, acting out your
-own death, knowing more
-- As the assassins all grouped
-in four lines,
+- In the shadowplay
+- Acting out your own death
+- Knowing more
+- As the assassins all grouped in four lines,
 - Dancing on the floor,
-- And with cold steel, odour on their bodies,
-made a move to connect
+- And with cold steel odour on their bodies,
+- Made a move to connect
 - I could only stare in disbelief
-as the crowds all left
+- As the crowds all left
 {:.verse}
 
 - I did everything, everything I wanted to
 - I let them use you -
-for their own ends
+- For their own ends
 - To the centre of the city in night
-waiting for you (2)
-
-
-
+- Waiting for you (2)
+{:.verse}

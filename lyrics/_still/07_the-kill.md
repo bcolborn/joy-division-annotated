@@ -3,9 +3,9 @@ title: The Kill
 ---
 
 - Moved in a hired car
-and I find no way to run
+- And I find no way to run
 - Adds every moment longer
-had no time for fun
+- Had no time for fun
 - Just something that I knew I had to do
 - But through it all
 - I kept my eyes on you
@@ -21,7 +21,7 @@ had no time for fun
 - Oh I keep it all traded in
 - I've paid the graces there
 - No kidding, misuse -
-no sign of blood
+- No sign of blood
 {:.verse}
 
 - Just something that I knew I had to do

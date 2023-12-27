@@ -4,9 +4,10 @@ title: Digital
 
 - Feel it closing in, feel it closing in
 - A fear of whom I call,
-hearing someone call
+- Hearing someone call
 - I feel it closing in, I feel it closing in
 - Day in, day out (6)
+{:.verse}
 
 - I feel it closing in,
 - As patterns seem to form
@@ -14,6 +15,7 @@ hearing someone call
 - As shadows start to fall
 - I feel it closing in, I feel it closing in
 - Day in, day out (5)
+{:.verse}
 
 - I'd have the world to just see
 whatever happens to my decorum
@@ -22,6 +24,4 @@ whatever happens to my decorum
 - I need you here today
 - Don't ever fade away (4)
 - Fade away (7)
-
-
-
+{:.verse}

@@ -26,6 +26,4 @@ and say you've tried (4)
 - Say you've tried (11)
 - Yeah, lose some sleep
 and say you've tried (4)
-
-
-
+{:.verse}
